@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 kalau ini pesan di branch 1stbranch
+=======
+
+pesanya udah di gabung huheeeeeeeeeee
+pesan di branch ke 2stbranch,baca aja ya hehehehe
+>>>>>>> 2stbranch
